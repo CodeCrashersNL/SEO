@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**SEO**](https://codecrashers.nl/cursussen/seo) cursus van CodeCrashers.
+Deze repository correspondeert met de [**SEO**](https://codecrashers.nl/lesmateriaal/seo) cursus van CodeCrashers.
 
 ---
 
